@@ -7,8 +7,8 @@ AI assistance was leveraged for brainstorming, debugging, and writing documentat
 
 ## Prompts Used
 
-## Testing
--*"Design curl tests for testing ai feature performance"*
+### Testing
+- *"Design curl tests for testing ai feature performance"*
 
 ### Debugging
 - *"Why is my deploy failing with 'top-level return cannot be used inside an ECMAScript module'?"*
