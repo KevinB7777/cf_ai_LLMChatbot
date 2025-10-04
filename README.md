@@ -72,7 +72,7 @@ curl -X POST "https://ai-app.<account>.workers.dev/api/reset"   -H "content-type
 
 ---
 
-## Change the model
+## Change the model (Optional)
 In `worker/src/index.js`, edit:
 ```js
 const MODEL = "@cf/meta/llama-3.3-70b-instruct-fp8-fast";
