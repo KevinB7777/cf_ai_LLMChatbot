@@ -1,0 +1,15 @@
+name = "ai-app"
+main = "src/index.js"
+compatibility_date = "2024-10-22"
+
+[ai]
+binding = "AI"
+remote = true
+
+[[durable_objects.bindings]]
+name = "SESSIONS"
+class_name = "SessionDO"
+
+[[migrations]]
+tag = "v1-sqlite"
+new_sqlite_classes = ["SessionDO"]
