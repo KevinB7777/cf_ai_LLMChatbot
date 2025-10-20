@@ -105,7 +105,6 @@ This repo implements all required components for the Cloudflare AI assignment:
 
 👉 To be considered, repository name must be prefixed with **`cf_ai_`** and include:
 - `README.md` (this file)
-- `PROMPTS.md` (list of AI prompts used during development)
 
 ---
 
